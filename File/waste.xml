@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 余废料 -->
+<MeteData TableName1="tblYuFeiLiaoYiJi" TableName2="tblYuFeiLiaoErJi"
+		TableName3="tblYuFeiLiaoSanJi" FirstForeighKey="Cat1ID"
+		SecondForeighKey="Cat2ID">
+	<FirstClass ID="废料">
+		<item>渣土</item>
+		<item>混凝土块</item>
+		<item>碎石块</item>
+		<item>砖瓦碎块</item>
+		<item>废砂浆</item>
+		<item>泥浆</item>
+		<item>沥青块</item>
+		<item>废塑料</item>
+		<item>废金属</item>
+		<item>废竹木</item>
+	</FirstClass>
+</MeteData>	

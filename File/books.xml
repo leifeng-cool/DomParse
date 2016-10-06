@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<bookstore>
+	<book id="1">
+		<name>冰与火之歌</name>
+		<author>乔治马丁</author>
+		<year>2014</year>
+		<price>89</price>
+		<language>English</language>
+	</book>
+	<book id="2">
+		<name>安徒生童话</name>
+		<author>安徒生</author>
+		<year>2008</year>
+		<price>55</price>
+		<language>English</language>
+	</book>
+	<book id="3">
+		<name>疯狂java</name>
+		<author>李刚</author>
+		<year>2010</year>
+		<price>120</price>
+		<language>Chinese</language>
+	</book>
+</bookstore>
